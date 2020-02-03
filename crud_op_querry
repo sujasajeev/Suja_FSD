@@ -1,0 +1,7 @@
+create database project;
+use project;
+create table product(prodId int, prodName varchar(20), prodQuantity int, prodPrice float);
+insert into product values(1001,"toy",20,100);
+insert into product values(1002,"ac",20,100);
+insert into product values(1003,"tv",20,100);
+select * from product;
