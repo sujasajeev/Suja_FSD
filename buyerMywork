@@ -1,0 +1,43 @@
+buyerMicroservice
+=================
+
+Buyer controller:
+	*1. Create(only needed)
+	*2.Get All
+	*3.GetbyId                                                                            
+	*4.Update
+	*5.DeletebyId
+
+Cart controller:
+	*1.add
+	*2.delete all
+	*3.delete by id
+	*4.update
+	5.checkout(remaining)
+	*6.get all
+
+	(7.get by id(no need))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+	"buyerId":5,
+	"buyerName":"Milan Mathew",
+	"username": "milanmathew",
+	"password":"milan1234",
+	"emailId": "milan@gmail.com"  ,
+	"mobileNumber":9956252365,
+	"createdOn":"20/05/2020"
+	
+ }
