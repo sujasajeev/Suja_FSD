@@ -1,0 +1,25 @@
+SellerMicroServices
+=================
+pojo classes:
+---------------
+1.Seller
+2.Category
+3.SubCategory
+4.product
+5.Discount
+
+relations given
+-------------------
+
+1. category to subcategory
+2.product to seller
+
+Note: hardcode category and subcategory. no need to provide rest apis.
+
+seller controller
+--------------------
+1.add
+2.get all
+3.get by id
+4.delet by id
+5.update
